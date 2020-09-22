@@ -1,4 +1,4 @@
-Here we see Hurricane Dorian at 18:30 UTC in a Red Visible imagery layer from the geostationary satellite, GOES-East, taken at roughly the same time as the image from the VIIRS instrument. Turn on and off the Red Visible layer to see the VIIRS Corrected Reflectance image underneath. Note the slight apparent shift in the clouds, which may be due to difference in the satellite angle between the polar orbiting and geostationary satellite.
+Here we see Hurricane Dorian at 18:30 UTC in a Red Visible imagery layer from the geostationary satellite, GOES-East, taken at roughly the same time as the image from the VIIRS instrument. 
 
 The Red Visible (0.64&mu;m, Band 2) layer is a single band layer from Advanced Baseline Imager (ABI) instrument on board the Geostationary Operational Environmental Satellites (GOES)-East. It is mainly used to monitor the evolution of clouds throughout the daylight hours.
 
